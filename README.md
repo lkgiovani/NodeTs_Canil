@@ -7,7 +7,7 @@ Projeto feito no modulo do curso Node + Typescript
 
 ### instalação
 
-'npm install'
+`npm install`
 
 ### Para rodar o projeto
 
